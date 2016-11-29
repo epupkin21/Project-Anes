@@ -86,3 +86,11 @@ img.backimage{
 	width: 100%;
 	height: auto;
 }
+
+.smaller {
+	flex: 1;
+	text-align: center;
+	/*align-self: center;*/
+	margin: auto;
+	background-color: blue;
+}
